@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-dotnetcore-wiring", "react-dotnetcore-wiring\react-dotnetcore-wiring.csproj", "{F7279D38-AA31-4EBC-870E-582D9D329C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7279D38-AA31-4EBC-870E-582D9D329C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7279D38-AA31-4EBC-870E-582D9D329C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7279D38-AA31-4EBC-870E-582D9D329C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7279D38-AA31-4EBC-870E-582D9D329C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD01A46D-795B-441D-9F32-9484288EE190}
+	EndGlobalSection
+EndGlobal
